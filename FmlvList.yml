@@ -1,0 +1,216 @@
+Summon:
+- FormId: 0
+  FormLevel: 1
+  Ability: 0
+  Experience: 6
+  GrowthAbilityLevel: 0
+- FormId: 0
+  FormLevel: 2
+  Ability: 0
+  Experience: 16 # 16 experience is now required to reach Summon LV2
+  GrowthAbilityLevel: 0
+- FormId: 0
+  FormLevel: 3
+  Ability: 0
+  Experience: 25 # 25 experience is now required to reach Summon LV3
+  GrowthAbilityLevel: 0
+- FormId: 0
+  FormLevel: 4
+  Ability: 0
+  Experience: 42 # 42 experience is now required to reach Summon LV4
+  GrowthAbilityLevel: 0
+- FormId: 0
+  FormLevel: 5
+  Ability: 0
+  Experience: 63 # 63 experience is now required to reach Summon LV5
+  GrowthAbilityLevel: 0
+- FormId: 0
+  FormLevel: 6
+  Ability: 0
+  Experience: 98 # 98 experience is now required to reach Summon LV6
+  GrowthAbilityLevel: 0
+- FormId: 0
+  FormLevel: 7
+  Ability: 0
+  Experience: 98
+  GrowthAbilityLevel: 0
+Valor:
+- FormId: 1
+  FormLevel: 1
+  Ability: 385
+  Experience: 80
+  GrowthAbilityLevel: 0
+- FormId: 1
+  FormLevel: 2
+  Ability: 385
+  Experience: 160 # 160 experience is now required to reach Valor LV2
+  GrowthAbilityLevel: 0
+- FormId: 1
+  FormLevel: 3
+  Ability: 94
+  Experience: 280 # 280 experience is now required to reach Valor LV3
+  GrowthAbilityLevel: 0
+- FormId: 1
+  FormLevel: 4
+  Ability: 162
+  Experience: 448 # 448 experience is now required to reach Valor LV4
+  GrowthAbilityLevel: 0
+- FormId: 1
+  FormLevel: 5
+  Ability: 95
+  Experience: 560 # 560 experience is now required to reach Valor LV5
+  GrowthAbilityLevel: 0
+- FormId: 1
+  FormLevel: 6
+  Ability: 162
+  Experience: 672 # 672 experience is now required to reach Valor LV6
+  GrowthAbilityLevel: 0
+- FormId: 1
+  FormLevel: 7
+  Ability: 96
+  Experience: 672
+  GrowthAbilityLevel: 0
+Wisdom:
+- FormId: 2
+  FormLevel: 1
+  Ability: 386
+  Experience: 20
+  GrowthAbilityLevel: 0
+- FormId: 2
+  FormLevel: 2
+  Ability: 386
+  Experience: 60 # 60 experience is now required to reach Wisdom LV2
+  GrowthAbilityLevel: 0
+- FormId: 2
+  FormLevel: 3
+  Ability: 98
+  Experience: 72 # 72 experience is now required to reach Wisdom LV3
+  GrowthAbilityLevel: 0
+- FormId: 2
+  FormLevel: 4
+  Ability: 412
+  Experience: 90 # 90 experience is now required to reach Wisdom LV4
+  GrowthAbilityLevel: 0
+- FormId: 2
+  FormLevel: 5
+  Ability: 99
+  Experience: 108 # 108 experience is now required to reach Wisdom LV5
+  GrowthAbilityLevel: 0
+- FormId: 2
+  FormLevel: 6
+  Ability: 413
+  Experience: 150 # 150 experience is now required to reach Wisdom LV6
+  GrowthAbilityLevel: 0
+- FormId: 2
+  FormLevel: 7
+  Ability: 100
+  Experience: 150
+  GrowthAbilityLevel: 0
+Limit:
+- FormId: 3
+  FormLevel: 1
+  Ability: 568
+  Experience: 3
+  GrowthAbilityLevel: 0
+- FormId: 3
+  FormLevel: 2
+  Ability: 568
+  Experience: 6 # 6 experience is now required to reach Limit LV2
+  GrowthAbilityLevel: 0
+- FormId: 3
+  FormLevel: 3
+  Ability: 564
+  Experience: 12 # 12 experience is now required to reach Limit LV3
+  GrowthAbilityLevel: 0
+- FormId: 3
+  FormLevel: 4
+  Ability: 405
+  Experience: 19 # 19 experience is now required to reach Limit LV4
+  GrowthAbilityLevel: 0
+- FormId: 3
+  FormLevel: 5
+  Ability: 565
+  Experience: 23 # 23 experience is now required to reach Limit LV5
+  GrowthAbilityLevel: 0
+- FormId: 3
+  FormLevel: 6
+  Ability: 407
+  Experience: 36 # 36 experience is now required to reach Limit LV6
+  GrowthAbilityLevel: 0
+- FormId: 3
+  FormLevel: 7
+  Ability: 566
+  Experience: 36
+  GrowthAbilityLevel: 0
+Master:
+- FormId: 4
+  FormLevel: 1
+  Ability: 387
+  Experience: 60
+  GrowthAbilityLevel: 0
+- FormId: 4
+  FormLevel: 2
+  Ability: 387
+  Experience: 180 # 180 experience is now required to reach Master LV2
+  GrowthAbilityLevel: 0
+- FormId: 4
+  FormLevel: 3
+  Ability: 102
+  Experience: 216 # 216 experience is now required to reach Master LV3
+  GrowthAbilityLevel: 0
+- FormId: 4
+  FormLevel: 4
+  Ability: 163
+  Experience: 270 # 270 experience is now required to reach Master LV4
+  GrowthAbilityLevel: 0
+- FormId: 4
+  FormLevel: 5
+  Ability: 103
+  Experience: 324 # 324 experience is now required to reach Master LV5
+  GrowthAbilityLevel: 0
+- FormId: 4
+  FormLevel: 6
+  Ability: 163
+  Experience: 450 # 450 experience is now required to reach Master LV6
+  GrowthAbilityLevel: 0
+- FormId: 4
+  FormLevel: 7
+  Ability: 104
+  Experience: 450
+  GrowthAbilityLevel: 0
+Final:
+- FormId: 5
+  FormLevel: 1
+  Ability: 388
+  Experience: 12
+  GrowthAbilityLevel: 0
+- FormId: 5
+  FormLevel: 2
+  Ability: 388
+  Experience: 24 # 24 experience is now required to reach Final LV2
+  GrowthAbilityLevel: 0
+- FormId: 5
+  FormLevel: 3
+  Ability: 106
+  Experience: 48 # 48 experience is now required to reach Final LV3
+  GrowthAbilityLevel: 0
+- FormId: 5
+  FormLevel: 4
+  Ability: 398
+  Experience: 76 # 76 experience is now required to reach Final LV4
+  GrowthAbilityLevel: 0
+- FormId: 5
+  FormLevel: 5
+  Ability: 107
+  Experience: 133 # 133 experience is now required to reach Final LV5
+  GrowthAbilityLevel: 0
+- FormId: 5
+  FormLevel: 6
+  Ability: 398
+  Experience: 157 # 157 experience is now required to reach Final LV6
+  GrowthAbilityLevel: 0
+- FormId: 5
+  FormLevel: 7
+  Ability: 108
+  Experience: 157
+  GrowthAbilityLevel: 0

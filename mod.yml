@@ -1,0 +1,40 @@
+title: Vanilla-Seed
+description: /"Vanilla/" GoA with Guard/Scan/Aerial Recovery
+assets:
+  - name: scripts/Custom_GoA_ROM.lua
+    method: copy
+    source:
+      - name: Custom_GoA_ROM.lua
+  - method: binarc
+    multi:
+      - name: msg/us/jm.bar
+      - name: msg/uk/jm.bar
+    name: msg/jp/jm.bar
+    source:
+      - method: kh2msg
+        name: jm
+        source:
+          - language: en
+            name: jm.yml
+        type: list
+  - method: binarc
+    name: 00battle.bin
+    source:
+      - method: listpatch
+        name: fmlv
+        source:
+          - name: FmlvList.yml
+            type: fmlv
+        type: List
+      - method: listpatch
+        name: lvup
+        source:
+          - name: LvupList.yml
+            type: lvup
+        type: List
+      - method: listpatch
+        name: plrp
+        source:
+          - name: PlrpList.yml
+            type: plrp
+        type: List

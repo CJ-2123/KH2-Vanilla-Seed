@@ -1,0 +1,1189 @@
+Sora:
+  1:
+    Character: Sora
+    Level: 1
+    Strength: 2
+    Magic: 6
+    Defense: 2
+    Ap: 2
+    Exp: 40
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  2:
+    Character: Sora
+    Level: 2
+    Strength: 2
+    Magic: 6
+    Defense: 3
+    Ap: 2
+    Exp: 100
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  3:
+    Character: Sora
+    Level: 3
+    Strength: 4
+    Magic: 6
+    Defense: 3
+    Ap: 4
+    Exp: 184
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  4:
+    Character: Sora
+    Level: 4
+    Strength: 4
+    Magic: 6
+    Defense: 4
+    Ap: 4
+    Exp: 296
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  5:
+    Character: Sora
+    Level: 5
+    Strength: 4
+    Magic: 6
+    Defense: 5
+    Ap: 6
+    Exp: 440
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  6:
+    Character: Sora
+    Level: 6
+    Strength: 6
+    Magic: 6
+    Defense: 6
+    Ap: 6
+    Exp: 620
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  7:
+    Character: Sora
+    Level: 7
+    Strength: 6
+    Magic: 6
+    Defense: 7
+    Ap: 6
+    Exp: 840
+    SwordAbility: 390 # Combo Boost
+    ShieldAbility: 411 # Item Boost
+    StaffAbility: 401 # Experience Boost
+    Padding: 0
+  8:
+    Character: Sora
+    Level: 8
+    Strength: 6
+    Magic: 8
+    Defense: 7
+    Ap: 8
+    Exp: 1128
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  9:
+    Character: Sora
+    Level: 9
+    Strength: 6
+    Magic: 8
+    Defense: 8
+    Ap: 8
+    Exp: 1492
+    SwordAbility: 401 # Experience Boost
+    ShieldAbility: 390 # Combo Boost
+    StaffAbility: 411 # Item Boost
+    Padding: 0
+  10:
+    Character: Sora
+    Level: 10
+    Strength: 8
+    Magic: 8
+    Defense: 8
+    Ap: 8
+    Exp: 1940
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  11:
+    Character: Sora
+    Level: 11
+    Strength: 8
+    Magic: 8
+    Defense: 9
+    Ap: 10
+    Exp: 2480
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  12:
+    Character: Sora
+    Level: 12
+    Strength: 8
+    Magic: 10
+    Defense: 9
+    Ap: 10
+    Exp: 3120
+    SwordAbility: 403 # Magic Lock-On
+    ShieldAbility: 403 # Magic Lock-On
+    StaffAbility: 403 # Magic Lock-On
+    Padding: 0
+  13:
+    Character: Sora
+    Level: 13
+    Strength: 8
+    Magic: 10
+    Defense: 10
+    Ap: 12
+    Exp: 3902
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  14:
+    Character: Sora
+    Level: 14
+    Strength: 10
+    Magic: 10
+    Defense: 10
+    Ap: 12
+    Exp: 4838
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  15:
+    Character: Sora
+    Level: 15
+    Strength: 10
+    Magic: 10
+    Defense: 11
+    Ap: 12
+    Exp: 5940
+    SwordAbility: 392 # Reaction Boost
+    ShieldAbility: 396 # Damage Drive
+    StaffAbility: 408 # Fire Boost
+    Padding: 0
+  16:
+    Character: Sora
+    Level: 16
+    Strength: 10
+    Magic: 12
+    Defense: 11
+    Ap: 14
+    Exp: 7260
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  17:
+    Character: Sora
+    Level: 17
+    Strength: 10
+    Magic: 12
+    Defense: 12
+    Ap: 14
+    Exp: 8814
+    SwordAbility: 411 # Item Boost
+    ShieldAbility: 401 # Experience Boost
+    StaffAbility: 390 # Combo Boost
+    Padding: 0
+  18:
+    Character: Sora
+    Level: 18
+    Strength: 12
+    Magic: 14
+    Defense: 12
+    Ap: 14
+    Exp: 10618
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  19:
+    Character: Sora
+    Level: 19
+    Strength: 12
+    Magic: 14
+    Defense: 13
+    Ap: 16
+    Exp: 12688
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  20:
+    Character: Sora
+    Level: 20
+    Strength: 12
+    Magic: 16
+    Defense: 13
+    Ap: 16
+    Exp: 15088
+    SwordAbility: 402 # Leaf Bracer
+    ShieldAbility: 402 # Leaf Bracer
+    StaffAbility: 402 # Leaf Bracer
+    Padding: 0
+  21:
+    Character: Sora
+    Level: 21
+    Strength: 12
+    Magic: 16
+    Defense: 14
+    Ap: 18
+    Exp: 17838
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  22:
+    Character: Sora
+    Level: 22
+    Strength: 14
+    Magic: 16
+    Defense: 14
+    Ap: 18
+    Exp: 20949
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  23:
+    Character: Sora
+    Level: 23
+    Strength: 14
+    Magic: 16
+    Defense: 15
+    Ap: 18
+    Exp: 24433
+    SwordAbility: 408 # Fire Boost
+    ShieldAbility: 392 # Reaction Boost
+    StaffAbility: 396 # Damage Drive
+    Padding: 0
+  24:
+    Character: Sora
+    Level: 24
+    Strength: 14
+    Magic: 18
+    Defense: 15
+    Ap: 20
+    Exp: 28302
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  25:
+    Character: Sora
+    Level: 25
+    Strength: 14
+    Magic: 18
+    Defense: 16
+    Ap: 20
+    Exp: 32622
+    SwordAbility: 397 # Drive Boost
+    ShieldAbility: 416 # Once More
+    StaffAbility: 405 # Draw
+    Padding: 0
+  26:
+    Character: Sora
+    Level: 26
+    Strength: 16
+    Magic: 18
+    Defense: 16
+    Ap: 20
+    Exp: 37407
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  27:
+    Character: Sora
+    Level: 27
+    Strength: 16
+    Magic: 18
+    Defense: 17
+    Ap: 20
+    Exp: 42671
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  28:
+    Character: Sora
+    Level: 28
+    Strength: 16
+    Magic: 20
+    Defense: 17
+    Ap: 20
+    Exp: 48485
+    SwordAbility: 405 # Draw
+    ShieldAbility: 397 # Drive Boost
+    StaffAbility: 416 # Once More
+    Padding: 0
+  29:
+    Character: Sora
+    Level: 29
+    Strength: 16
+    Magic: 20
+    Defense: 18
+    Ap: 22
+    Exp: 54865
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  30:
+    Character: Sora
+    Level: 30
+    Strength: 18
+    Magic: 20
+    Defense: 18
+    Ap: 22
+    Exp: 61886
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  31:
+    Character: Sora
+    Level: 31
+    Strength: 18
+    Magic: 20
+    Defense: 19
+    Ap: 22
+    Exp: 69566
+    SwordAbility: 400 # Combination Boost
+    ShieldAbility: 414 # Defender
+    StaffAbility: 409 # Blizzard Boost
+    Padding: 0
+  32:
+    Character: Sora
+    Level: 32
+    Strength: 18
+    Magic: 22
+    Defense: 19
+    Ap: 22
+    Exp: 77984
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  33:
+    Character: Sora
+    Level: 33
+    Strength: 18
+    Magic: 22
+    Defense: 20
+    Ap: 22
+    Exp: 87160
+    SwordAbility: 396 # Damage Drive
+    ShieldAbility: 408 # Fire Boost
+    StaffAbility: 392 # Reaction Boost
+    Padding: 0
+  34:
+    Character: Sora
+    Level: 34
+    Strength: 20
+    Magic: 22
+    Defense: 20
+    Ap: 22
+    Exp: 97177
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  35:
+    Character: Sora
+    Level: 35
+    Strength: 20
+    Magic: 22
+    Defense: 21
+    Ap: 24
+    Exp: 108057
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  36:
+    Character: Sora
+    Level: 36
+    Strength: 20
+    Magic: 24
+    Defense: 21
+    Ap: 24
+    Exp: 119887
+    SwordAbility: 391 # Air Combo Boost
+    ShieldAbility: 406 # Jackpot
+    StaffAbility: 394 # Negative Combo
+    Padding: 0
+  37:
+    Character: Sora
+    Level: 37
+    Strength: 20
+    Magic: 24
+    Defense: 22
+    Ap: 26
+    Exp: 132691
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  38:
+    Character: Sora
+    Level: 38
+    Strength: 22
+    Magic: 24
+    Defense: 22
+    Ap: 26
+    Exp: 146560
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  39:
+    Character: Sora
+    Level: 39
+    Strength: 22
+    Magic: 24
+    Defense: 23
+    Ap: 26
+    Exp: 161520
+    SwordAbility: 409 # Blizzard Boost
+    ShieldAbility: 400 # Combination Boost
+    StaffAbility: 414 # Defender
+    Padding: 0
+  40:
+    Character: Sora
+    Level: 40
+    Strength: 22
+    Magic: 26
+    Defense: 23
+    Ap: 28
+    Exp: 177666
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  41:
+    Character: Sora
+    Level: 41
+    Strength: 22
+    Magic: 26
+    Defense: 24
+    Ap: 28
+    Exp: 195026
+    SwordAbility: 540 # Drive Converter
+    ShieldAbility: 542 # Damage Control
+    StaffAbility: 410 # Thunder Boost
+    Padding: 0
+  42:
+    Character: Sora
+    Level: 42
+    Strength: 24
+    Magic: 26
+    Defense: 24
+    Ap: 28
+    Exp: 213699
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  43:
+    Character: Sora
+    Level: 43
+    Strength: 24
+    Magic: 26
+    Defense: 25
+    Ap: 28
+    Exp: 233715
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  44:
+    Character: Sora
+    Level: 44
+    Strength: 24
+    Magic: 28
+    Defense: 25
+    Ap: 28
+    Exp: 255177
+    SwordAbility: 394 # Negative Combo
+    ShieldAbility: 391 # Air Combo Boost
+    StaffAbility: 406 # Jackpot
+    Padding: 0
+  45:
+    Character: Sora
+    Level: 45
+    Strength: 24
+    Magic: 28
+    Defense: 26
+    Ap: 30
+    Exp: 278117
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  46:
+    Character: Sora
+    Level: 46
+    Strength: 26
+    Magic: 28
+    Defense: 26
+    Ap: 30
+    Exp: 302642
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  47:
+    Character: Sora
+    Level: 47
+    Strength: 26
+    Magic: 28
+    Defense: 27
+    Ap: 30
+    Exp: 328786
+    SwordAbility: 416 # Once More
+    ShieldAbility: 405 # Draw
+    StaffAbility: 397 # Drive Boost
+    Padding: 0
+  48:
+    Character: Sora
+    Level: 48
+    Strength: 26
+    Magic: 30
+    Defense: 27
+    Ap: 30
+    Exp: 356660
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  49:
+    Character: Sora
+    Level: 49
+    Strength: 26
+    Magic: 30
+    Defense: 28
+    Ap: 30
+    Exp: 386660
+    SwordAbility: 393 # Finishing Plus
+    ShieldAbility: 415 # Second Chance
+    StaffAbility: 395 # Berserk Charge
+    Padding: 0
+  50:
+    Character: Sora
+    Level: 50
+    Strength: 28
+    Magic: 30
+    Defense: 28
+    Ap: 30
+    Exp: 417978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  51:
+    Character: Sora
+    Level: 51
+    Strength: 28
+    Magic: 30
+    Defense: 29
+    Ap: 32
+    Exp: 450378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  52:
+    Character: Sora
+    Level: 52
+    Strength: 28
+    Magic: 32
+    Defense: 29
+    Ap: 32
+    Exp: 483578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  53:
+    Character: Sora
+    Level: 53
+    Strength: 28
+    Magic: 32
+    Defense: 30
+    Ap: 32
+    Exp: 517578
+    SwordAbility: 410 # Thunder Boost
+    ShieldAbility: 540 # Drive Converter
+    StaffAbility: 542 # Damage Control
+    Padding: 0
+  54:
+    Character: Sora
+    Level: 54
+    Strength: 30
+    Magic: 32
+    Defense: 30
+    Ap: 32
+    Exp: 552378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  55:
+    Character: Sora
+    Level: 55
+    Strength: 30
+    Magic: 32
+    Defense: 31
+    Ap: 34
+    Exp: 587978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  56:
+    Character: Sora
+    Level: 56
+    Strength: 30
+    Magic: 34
+    Defense: 31
+    Ap: 34
+    Exp: 624378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  57:
+    Character: Sora
+    Level: 57
+    Strength: 30
+    Magic: 34
+    Defense: 32
+    Ap: 36
+    Exp: 661578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  58:
+    Character: Sora
+    Level: 58
+    Strength: 32
+    Magic: 34
+    Defense: 32
+    Ap: 36
+    Exp: 699578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  59:
+    Character: Sora
+    Level: 59
+    Strength: 32
+    Magic: 34
+    Defense: 33
+    Ap: 36
+    Exp: 738378
+    SwordAbility: 414 # Defender
+    ShieldAbility: 409 # Blizzard Boost
+    StaffAbility: 400 # Combination Boost
+    Padding: 0
+  60:
+    Character: Sora
+    Level: 60
+    Strength: 32
+    Magic: 36
+    Defense: 33
+    Ap: 36
+    Exp: 777978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  61:
+    Character: Sora
+    Level: 61
+    Strength: 32
+    Magic: 36
+    Defense: 34
+    Ap: 38
+    Exp: 818378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  62:
+    Character: Sora
+    Level: 62
+    Strength: 34
+    Magic: 36
+    Defense: 34
+    Ap: 38
+    Exp: 859578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  63:
+    Character: Sora
+    Level: 63
+    Strength: 34
+    Magic: 36
+    Defense: 35
+    Ap: 40
+    Exp: 901578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  64:
+    Character: Sora
+    Level: 64
+    Strength: 34
+    Magic: 38
+    Defense: 35
+    Ap: 40
+    Exp: 944378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  65:
+    Character: Sora
+    Level: 65
+    Strength: 34
+    Magic: 38
+    Defense: 36
+    Ap: 40
+    Exp: 987987
+    SwordAbility: 395 # Berserk Charge
+    ShieldAbility: 393 # Finishing Plus
+    StaffAbility: 415 # Second Chance
+    Padding: 0
+  66:
+    Character: Sora
+    Level: 66
+    Strength: 36
+    Magic: 38
+    Defense: 36
+    Ap: 40
+    Exp: 1032378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  67:
+    Character: Sora
+    Level: 67
+    Strength: 36
+    Magic: 38
+    Defense: 37
+    Ap: 42
+    Exp: 1077578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  68:
+    Character: Sora
+    Level: 68
+    Strength: 36
+    Magic: 40
+    Defense: 37
+    Ap: 42
+    Exp: 1123578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  69:
+    Character: Sora
+    Level: 69
+    Strength: 36
+    Magic: 40
+    Defense: 38
+    Ap: 44
+    Exp: 1170378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  70:
+    Character: Sora
+    Level: 70
+    Strength: 38
+    Magic: 40
+    Defense: 38
+    Ap: 44
+    Exp: 1217978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  71:
+    Character: Sora
+    Level: 71
+    Strength: 38
+    Magic: 40
+    Defense: 39
+    Ap: 46
+    Exp: 1266378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  72:
+    Character: Sora
+    Level: 72
+    Strength: 38
+    Magic: 42
+    Defense: 39
+    Ap: 46
+    Exp: 1315578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  73:
+    Character: Sora
+    Level: 73
+    Strength: 38
+    Magic: 42
+    Defense: 40
+    Ap: 46
+    Exp: 1365578
+    SwordAbility: 406 # Jackpot
+    ShieldAbility: 394 # Negative Combo
+    StaffAbility: 391 # Air Combo Boost
+    Padding: 0
+  74:
+    Character: Sora
+    Level: 74
+    Strength: 40
+    Magic: 42
+    Defense: 40
+    Ap: 46
+    Exp: 1416378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  75:
+    Character: Sora
+    Level: 75
+    Strength: 40
+    Magic: 42
+    Defense: 41
+    Ap: 48
+    Exp: 1467978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  76:
+    Character: Sora
+    Level: 76
+    Strength: 40
+    Magic: 44
+    Defense: 41
+    Ap: 48
+    Exp: 1520378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  77:
+    Character: Sora
+    Level: 77
+    Strength: 40
+    Magic: 44
+    Defense: 42
+    Ap: 50
+    Exp: 1573578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  78:
+    Character: Sora
+    Level: 78
+    Strength: 42
+    Magic: 44
+    Defense: 42
+    Ap: 50
+    Exp: 1627578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  79:
+    Character: Sora
+    Level: 79
+    Strength: 42
+    Magic: 44
+    Defense: 43
+    Ap: 52
+    Exp: 1682378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  80:
+    Character: Sora
+    Level: 80
+    Strength: 42
+    Magic: 46
+    Defense: 43
+    Ap: 52
+    Exp: 1737978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  81:
+    Character: Sora
+    Level: 81
+    Strength: 42
+    Magic: 46
+    Defense: 44
+    Ap: 54
+    Exp: 1794378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  82:
+    Character: Sora
+    Level: 82
+    Strength: 44
+    Magic: 46
+    Defense: 44
+    Ap: 54
+    Exp: 1851578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  83:
+    Character: Sora
+    Level: 83
+    Strength: 44
+    Magic: 46
+    Defense: 45
+    Ap: 56
+    Exp: 1909578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  84:
+    Character: Sora
+    Level: 84
+    Strength: 44
+    Magic: 48
+    Defense: 45
+    Ap: 56
+    Exp: 1968378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  85:
+    Character: Sora
+    Level: 85
+    Strength: 44
+    Magic: 48
+    Defense: 46
+    Ap: 56
+    Exp: 2027978
+    SwordAbility: 415 # Second Chance
+    ShieldAbility: 395 # Berserk Charge
+    StaffAbility: 393 # Finishing Plus
+    Padding: 0
+  86:
+    Character: Sora
+    Level: 86
+    Strength: 46
+    Magic: 48
+    Defense: 46
+    Ap: 56
+    Exp: 2088378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  87:
+    Character: Sora
+    Level: 87
+    Strength: 46
+    Magic: 48
+    Defense: 47
+    Ap: 58
+    Exp: 2149578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  88:
+    Character: Sora
+    Level: 88
+    Strength: 46
+    Magic: 50
+    Defense: 47
+    Ap: 58
+    Exp: 2211578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  89:
+    Character: Sora
+    Level: 89
+    Strength: 46
+    Magic: 50
+    Defense: 48
+    Ap: 60
+    Exp: 2274378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  90:
+    Character: Sora
+    Level: 90
+    Strength: 48
+    Magic: 50
+    Defense: 48
+    Ap: 60
+    Exp: 2337978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  91:
+    Character: Sora
+    Level: 91
+    Strength: 48
+    Magic: 50
+    Defense: 49
+    Ap: 62
+    Exp: 2402378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  92:
+    Character: Sora
+    Level: 92
+    Strength: 48
+    Magic: 52
+    Defense: 49
+    Ap: 62
+    Exp: 2467578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  93:
+    Character: Sora
+    Level: 93
+    Strength: 48
+    Magic: 52
+    Defense: 50
+    Ap: 64
+    Exp: 2533578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  94:
+    Character: Sora
+    Level: 94
+    Strength: 50
+    Magic: 52
+    Defense: 50
+    Ap: 64
+    Exp: 2600378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  95:
+    Character: Sora
+    Level: 95
+    Strength: 50
+    Magic: 52
+    Defense: 51
+    Ap: 66
+    Exp: 2667978
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  96:
+    Character: Sora
+    Level: 96
+    Strength: 50
+    Magic: 54
+    Defense: 51
+    Ap: 66
+    Exp: 2736378
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  97:
+    Character: Sora
+    Level: 97
+    Strength: 50
+    Magic: 54
+    Defense: 52
+    Ap: 68
+    Exp: 2805578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  98:
+    Character: Sora
+    Level: 98
+    Strength: 52
+    Magic: 54
+    Defense: 52
+    Ap: 68
+    Exp: 2875578
+    SwordAbility: 0 # EMPTY
+    ShieldAbility: 0 # EMPTY
+    StaffAbility: 0 # EMPTY
+    Padding: 0
+  99:
+    Character: Sora
+    Level: 99
+    Strength: 52
+    Magic: 54
+    Defense: 53
+    Ap: 68
+    Exp: 0
+    SwordAbility: 542 # Damage Control
+    ShieldAbility: 410 # Thunder Boost
+    StaffAbility: 8644 # Drive Converter
+    Padding: 0
