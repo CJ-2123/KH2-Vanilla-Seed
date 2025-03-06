@@ -1,0 +1,45 @@
+#Station of Serenity Nobodies
+54:
+  Roxas:
+    RewardId: 54
+    CharacterId: 14
+    BonusItem1: 1 # Potion
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Twilight Thorn
+33:
+  Roxas:
+    RewardId: 33
+    CharacterId: 14
+    BonusItem1: 1 # Potion
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 5
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    
+#Axel I
+73:
+  Roxas:
+    RewardId: 73
+    CharacterId: 14
+    BonusItem1: 1 # Potion
+    BonusItem2: 0 # EMPTY
+    HpIncrease: 0
+    MpIncrease: 0
+    ArmorSlotUpgrade: 0
+    AccessorySlotUpgrade: 0
+    ItemSlotUpgrade: 0
+    DriveGaugeUpgrade: 0
+    Padding: 0
+    

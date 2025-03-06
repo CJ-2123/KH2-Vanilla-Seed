@@ -1,14 +1,6 @@
-title: KH2-Vanilla-Seed
-description: /"Vanilla/" GoA with Guard/Scan/Aerial Recovery. Put above GoA.
+title: KH2 Vanilla Seed
+description: Vanilla items with QoL starting abilities. Put above GoA.
 assets:
-  - name: icon.png
-    method: copy
-    source:
-      - name: icon.png
-  - name: scripts/Custom_GoA_ROM.lua
-    method: copy
-    source:
-      - name: Custom_GoA_ROM.lua
   - method: binarc
     multi:
       - name: msg/us/jm.bar
@@ -35,6 +27,12 @@ assets:
         source:
           - name: LvupList.yml
             type: lvup
+        type: List
+      - method: listpatch
+        name: bons
+        source:
+          - name: BonsList.yml
+            type: bons
         type: List
       - method: listpatch
         name: plrp
