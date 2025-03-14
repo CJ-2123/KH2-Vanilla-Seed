@@ -1,6 +1,11 @@
 title: KH2 Vanilla Seed
-description: Vanilla items with QoL starting abilities. Put above GoA.
+description: For vanilla bingo. Put above GoA.
 assets:
+  - name: scripts/scan.lua
+    platform: pc
+    method: copy
+    source:
+      - name: scripts/scan.lua
   - method: binarc
     multi:
       - name: msg/us/jm.bar
@@ -40,3 +45,80 @@ assets:
           - name: PlrpList.yml
             type: plrp
         type: List
+  - name: msg/us/ca.bar
+    multi:
+      - name: msg/fr/ca.bar
+      - name: msg/gr/ca.bar
+      - name: msg/it/ca.bar
+      - name: msg/sp/ca.bar
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: mod-files/map_skip/ca.yml
+            language: en
+  - name: msg/jp/ca.bar
+    platform: ps2
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: mod-files/map_skip/ca.yml
+            language: en
+  - name: msg/jp/ca.bar
+    platform: pc
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: mod-files/map_skip/ca.yml
+            language: jp
+  - name: libretto-ca.bar
+    method: copy
+    source:
+      - name: mod-files/map_skip/libretto-ca.bar
+  - name: 03system.bin
+    method: binarc
+    source:
+      - name: cmd
+        method: listpatch
+        type: list
+        source:
+          - name: mod-files/cmd_list_merged.yml
+            type: cmd
+  - name: limit/fm/trinity_zz.bar
+    multi:
+      - name: limit/us/trinity_zz.bar
+      - name: limit/fr/trinity_zz.bar
+      - name: limit/gr/trinity_zz.bar
+      - name: limit/it/trinity_zz.bar
+      - name: limit/sp/trinity_zz.bar
+    method: copy
+    source:
+      - name: mod-files/better_stt/trinity_zz.bar
+  - name: obj/B_EX100.mset
+    method: copy
+    source:
+      - name: mod-files/better_stt/B_EX100.mset
+  - name: obj/F_TT010.mset
+    method: copy
+    source:
+      - name: mod-files/better_stt/F_TT010.mset
+  - name: obj/P_EX110.mset
+    method: copy
+    source:
+      - name: mod-files/better_stt/P_EX110.mset
+  - name: obj/W_EX010_RX.mset
+    method: copy
+    source:
+      - name: mod-files/better_stt/W_EX010_RX.mset
+  - name: obj/B_EX100_SR.mset
+    method: copy
+    source:
+      - name: mod-files/better_stt/B_EX100_SR.mset
