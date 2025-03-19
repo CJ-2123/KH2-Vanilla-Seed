@@ -10,6 +10,7 @@ I made this :) to use for vanilla bingo with the Garden of Assemblage mod (Norma
     - Limit Form level 3
   - Light and Darkness is still on Two Become One
 - Start with Unknown Disk for free Cosmic Chain in Heartless Manufactory
+- Garden of Assemblage has Proof of Connection (leftmost chest) and Proof of Peace (rightmost chest)
 - Faster Drive Form EXP multipliers
   - Valor x5
   - Wisdom x3

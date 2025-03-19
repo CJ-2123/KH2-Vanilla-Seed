@@ -45,6 +45,15 @@ assets:
           - name: PlrpList.yml
             type: plrp
         type: List
+  - method: binarc
+    name: 03system.bin
+    source:
+      - method: listpatch
+        name: trsr
+        source:
+          - name: TrsrList.yml
+            type: trsr
+        type: List
   - name: msg/us/ca.bar
     multi:
       - name: msg/fr/ca.bar

@@ -1,0 +1,11 @@
+# Cavern of Remembrance
+585:
+  ItemId: 595 # Garden of Assemblage, Garden of Assemblage Map is now Proof of Peace
+586:
+  ItemId: 593 # Garden of Assemblage, Lost Illusion is now Proof of Connection
+# Disney Castle
+587:
+  ItemId: 1 # Lingering Will (A), Proof of Connection is now Potion
+# Hollow Bastion
+589:
+  ItemId: 1 # Mushroom XIII (A), Proof of Peace is now Potion
